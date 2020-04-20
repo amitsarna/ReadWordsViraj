@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReadWordsViraj/static/css/main.bffb2367.chunk.css",
+    "main.js": "/ReadWordsViraj/static/js/main.fba55e2b.chunk.js",
+    "main.js.map": "/ReadWordsViraj/static/js/main.fba55e2b.chunk.js.map",
+    "runtime-main.js": "/ReadWordsViraj/static/js/runtime-main.a636f56a.js",
+    "runtime-main.js.map": "/ReadWordsViraj/static/js/runtime-main.a636f56a.js.map",
+    "static/js/2.bc66cd20.chunk.js": "/ReadWordsViraj/static/js/2.bc66cd20.chunk.js",
+    "static/js/2.bc66cd20.chunk.js.map": "/ReadWordsViraj/static/js/2.bc66cd20.chunk.js.map",
+    "index.html": "/ReadWordsViraj/index.html",
+    "precache-manifest.6c305b6bae16a5a6f8b3a0e4ec39d520.js": "/ReadWordsViraj/precache-manifest.6c305b6bae16a5a6f8b3a0e4ec39d520.js",
+    "service-worker.js": "/ReadWordsViraj/service-worker.js",
+    "static/css/main.bffb2367.chunk.css.map": "/ReadWordsViraj/static/css/main.bffb2367.chunk.css.map",
+    "static/js/2.bc66cd20.chunk.js.LICENSE.txt": "/ReadWordsViraj/static/js/2.bc66cd20.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a636f56a.js",
+    "static/js/2.bc66cd20.chunk.js",
+    "static/css/main.bffb2367.chunk.css",
+    "static/js/main.fba55e2b.chunk.js"
+  ]
+}
